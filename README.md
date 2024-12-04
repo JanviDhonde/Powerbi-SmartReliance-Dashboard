@@ -40,11 +40,11 @@ The primary goals of this project are:
 
 #### 1. **Overview Dashboard**  
 A snapshot of key sales metrics and their comparison with monthly goals.  
-![Overview Dashboard]([./Smart_Reliance_Dashboard.jpg](https://github.com/JanviDhonde/Powerbi-SmartReliance-Dashboard/blob/main/Smart%20Reliance%20Dashboard.jpg))
+![Overview Dashboard](https://github.com/JanviDhonde/Powerbi-SmartReliance-Dashboard/blob/main/Smart%20Reliance%20Dashboard.jpg)
 
 #### 2. **Sales Report**  
 Detailed performance breakdown by country, state, and product brand.  
-![Sales Report](./Smart_Reliance_Sales_Report.jpg)
+![Sales Report](https://github.com/JanviDhonde/Powerbi-SmartReliance-Dashboard/blob/main/Smart%20Reliance%20Sales%20Report.jpg)
 
 ### 📈 **Project Learnings**  
 
